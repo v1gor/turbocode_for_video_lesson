@@ -45,3 +45,4 @@ str_age = str(age)
 print(type(str_age))
 fl = 123.23 + 10
 print(round(fl, 2))
+print('new line')
